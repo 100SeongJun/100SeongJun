@@ -1,8 +1,9 @@
 ### 안녕하세요 웹 풀스택 신입 개발자 백성준 입니다 : )
 
-***
 # SKILLS 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&&logo=java&logoCoor=white"/>
+
+---
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&&logo=java&logoCoor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -21,3 +22,4 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+--- 
