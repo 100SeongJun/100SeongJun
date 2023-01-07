@@ -2,4 +2,4 @@
 
 
 #SKILLS 
-<img src="https://img.shields.io/badge/JAVA-orange?style=for-the-badge&&logo=Java&logoCoor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&&logo=java&logoCoor=white"/>
