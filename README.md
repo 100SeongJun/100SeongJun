@@ -2,4 +2,4 @@
 
 
 #SKILLS 
-<img src="https://img.shields.io/badge/JAVA-C6699?style=plastic&logo=appveyor&logo=appveyor/>
+<img src="https://img.shields.io/badge/JAVA-orange?style=for-the-badge&&logo=Java&logoCoor=white"/>
